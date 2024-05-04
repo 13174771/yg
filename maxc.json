@@ -1,12 +1,8 @@
 {
     "urls": [
 {
-            "url": "http://git.sxtv.top/Ygbh/YG/raw/main/box%e5%8e%9f.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
             "name": "公众号【宝盒没宝】"
-        },
-        {
-            "url": "http://git.sxtv.top/Ygbh/YG/raw/main/box%e5%8e%9f.json",
-            "name": "宝盒备用线路"
         },
  {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
@@ -57,7 +53,6 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高山流水"
         },
-     {"name":"最全短剧","url":"https://agit.ai/hu/hcr/raw/branch/master/短剧.json"}, 
         {
             "url": "https://weixine.net/ysc.json",
             "name": "影视车运输"
@@ -94,11 +89,6 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🦆俊于"
-        },
-    
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🐝南风"
         }
     ]
 }
