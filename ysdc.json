@@ -1,23 +1,35 @@
 
 {
     "urls": [
-{
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
-            "name": "公众号【宝盒迷】"
+{"url": "https://gh.bh666.filegear-sg.me/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+            "name": "公众号【宝盒汇】"
+            
+        }, 
+        {
+            "url": "https://gitcode.net/ygbh66/yg/-/raw/main/pg/bh2.json",
+            "name": "【宝盒视界】备用线路"
+        }, 
+         {
+            "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Fjsm.json?ref=main",
+            "name": "【宝盒视界】备用线路2"
         }, {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/yp/api.json",
-            "name": "云盘合集"
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg2/jsm.json",
+            "name": "PG网盘线路"
+        }, 
+         {
+            "url": "http://tv.999888987.xyz/",
+            "name": "王二小"
         },
          {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/",
-            "name": "王二小放牛"
+            "url": "http://ok321.top/tv",
+            "name": "ok"
         },
  {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
             "name": "香雅情"
         },
         {
-            "url": "http://饭太硬.top/tv",
+            "url": "http://www.饭太硬.com/tv/",
             "name": "饭太硬"
         },
 {
@@ -25,12 +37,8 @@
             "name": "小胡"
         },
  {
-            "url": "http://肥猫.live",
+            "url": "http://肥猫.com",
             "name": "肥猫不肥"
-        },
-        {
-            "url": "https://agit.ai/leevi/PG/raw/branch/master/jsm.json",
-            "name": "PG"
         },
         {
             "url": "https://wds.ecsxs.com/230989.json",
@@ -91,7 +99,11 @@
             "url": "https://xhdwc.tk/0",
             "name": "骚0"
         },
-
+ {
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "name": "D佬"
+        },
+    
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "😹云星日记"
@@ -104,11 +116,6 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🦆俊于"
-        },
-    
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🐝南风"
         }
     ]
 }
